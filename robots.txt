@@ -1,3 +1,4 @@
+Sitemap: https://trunesh.github.io/reviews/sitemap.xml
 User-agent: *
 Disallow: /reviews/gallery.html
 Disallow: /images/*.jpg
